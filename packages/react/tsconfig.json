@@ -1,0 +1,4 @@
+{
+  "extends": "@bussola-ui/ts-config/react.json",
+  "include": ["src"]
+}
