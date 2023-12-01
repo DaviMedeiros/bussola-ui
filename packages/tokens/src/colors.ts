@@ -16,5 +16,5 @@ export const colors = {
   bussola700: '#015F43',
   bussola900: '#00291D',
 
-  test: '#FFF',
+  test2: '#FFF',
 }
