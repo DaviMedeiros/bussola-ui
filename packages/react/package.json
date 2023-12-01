@@ -1,6 +1,6 @@
 {
   "name": "@bussola-ui/react",
-  "version": "2.2.2",
+  "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
