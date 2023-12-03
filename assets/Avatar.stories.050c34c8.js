@@ -1,0 +1,2 @@
+import{A as t}from"./index.1ce74755.js";import"./index.58cc5382.js";import"./iframe.db2c3c27.js";import"./index.7814a98f.js";import"./jsx-runtime.e830de77.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/davimedeiros.png",alt:"Davi Medeiros"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.050c34c8.js.map
